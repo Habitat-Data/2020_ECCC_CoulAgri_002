@@ -1,0 +1,10 @@
+
+Commission de protection du territoire agricole. (2015). Zone agricole du Québec. Jeu de données vectorielles. https://www.donneesquebec.ca/recherche/dataset/zone-agricole-du-quebec
+
+ECCC & MDDELCC. (2018). Cartographie de l’occupation du sol des Basses-terres du Saint-Laurent, circa 2014. Environnement et Changement climatique Canada et Ministère du Développement durable, de l’Environnement et de la Lutte contre les changements climatiques, Plan d’action Saint-Laurent, Québec, QC. 49p.
+
+Ministère de l'énergie et des ressources naturelles. (2019). Découpages administratifs à l’échelle de 1/1 000 000. Jeu de données vectorielles. 
+https://www.donneesquebec.ca/recherche/dataset/base-de-donnees-geographiques-et-administratives/resource/ee928e60-5fef-488d-af37-099281a4e0e6
+
+Ressources naturelles Canada. Réseau hydro national - RHN - Série GéoBase. Jeu de données vectorielles. (2020). https://open.canada.ca/data/en/dataset/a4b190fe-e090-4e6d-881e-b87956c07977
+
